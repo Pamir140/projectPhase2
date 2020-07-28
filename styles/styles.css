@@ -1,0 +1,14 @@
+body {
+  background-image: url(../media/back.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h3,
+h1 {
+  font-family: "Sofia";
+}
+
+.al {
+  font-family: "Averia Libre";
+  font-size: 22px;
+}
